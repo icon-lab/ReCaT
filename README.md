@@ -1,11 +1,11 @@
-# ReCat 
+﻿# ReCat 
 
 This is a collection of Matlab functions and demos to demonstrate the techniques described in the following paper:
 
 Biyik E, Ilicak E, Çukur T. Reconstruction by calibration over tensors for multi‐coil multi‐acquisition balanced SSFP imaging. Magn Reson Med 2017. doi: 10.1002/mrm.26902.
 
 You are encouraged to modify/distribute this code. However, please acknowledge this code and cite the paper appropriately.
-This code utilizes and requires SPIRiT library and TensorLab package.
+This code utilizes and requires [SPIRiT library](https://people.eecs.berkeley.edu/~mlustig/Software.html) and [TensorLab package](https://www.tensorlab.net/).
 
 
 ## Demos
